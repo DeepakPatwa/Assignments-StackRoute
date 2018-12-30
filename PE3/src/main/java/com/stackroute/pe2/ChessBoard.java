@@ -28,16 +28,4 @@ public class ChessBoard {
         return Board;
     }
 
-    public static void main(String []args)
-    {
-        String[][] Board=new String[8][8];
-
-        Board=InitializeBoard(Board);
-
-        for(int i=0;i<8;i++,System.out.println())
-        {
-            for(int j=0;j<8;j++)
-                System.out.print(Board[i][j]);
-        }
-    }
 }
