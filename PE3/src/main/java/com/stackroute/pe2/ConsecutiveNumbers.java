@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class ConsecutiveNumbers {
 
-    public static boolean isConsecutive(int a, int b)
+    public static boolean isConsecutive(int currentElement, int nextElement)
     {
-        if(a==b+1)
+        if(currentElement==nextElement+1)
             return true;
         else
             return false;

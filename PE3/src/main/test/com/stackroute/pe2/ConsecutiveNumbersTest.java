@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class ConsecutiveNumbersTest {
 
     @Test
-    public void TestisConsecutive() {
+    public void testIsConsecutive() {
         ConsecutiveNumbers cn=new ConsecutiveNumbers();
         boolean res1=cn.isConsecutive(5,4);
         boolean res2=cn.isConsecutive(6,5);
