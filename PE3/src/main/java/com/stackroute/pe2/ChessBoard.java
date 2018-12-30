@@ -2,7 +2,7 @@ package com.stackroute.pe2;
 
 public class ChessBoard {
 
-    public static String[][] InitializeBoard(String[][] Board)
+    public static String[][] initializeBoard(String[][] Board)
     {
 
         int colChange=0;

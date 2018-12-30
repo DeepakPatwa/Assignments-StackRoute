@@ -18,6 +18,6 @@ public class ChessBoardTest {
                 {"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"},
                 {"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},
                 {"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"}};
-        assertArrayEquals("InitializeBoard is failing ",checkBoard, cb.InitializeBoard(Board));
+        assertArrayEquals("InitializeBoard is failing ",checkBoard, cb.initializeBoard(Board));
     }
 }
