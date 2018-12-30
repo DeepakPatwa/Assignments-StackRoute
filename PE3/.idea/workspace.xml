@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddea0d7-1d34-4c0a-9242-a1c5fbef8e3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="28" selection-start-line="28" selection-start-column="2" selection-end-line="58" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="165">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/DayCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -55,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ChessBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="-195">
               <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
@@ -73,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ConsecutiveNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="210">
               <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
@@ -84,19 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MyException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -129,17 +125,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/RemoveVowelsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/MatrixAddationTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/StudentMarksTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ExceptionExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MyException.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/DayCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ChessBoard.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/ChessBoardTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/ConsecutiveNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/DayCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java" />
       </list>
     </option>
   </component>
@@ -225,7 +221,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546201487033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546201708918" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -253,20 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DayCalculatorTest.calCalendar">
-    <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.ChessBoard" />
-      <module name="PE3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MatrixAddationTest.addMatrix">
     <configuration name="ChessBoardTest.initializeBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <extension name="coverage">
@@ -329,13 +312,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MatrixAddationTest.addMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.MatrixAddationTest" />
+      <option name="METHOD_NAME" value="addMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatrixAddationTest.addMatrix" />
         <item itemvalue="JUnit.DayCalculatorTest.calCalendar" />
         <item itemvalue="JUnit.ConsecutiveNumbersTest.testIsConsecutive" />
         <item itemvalue="JUnit.ConsecutiveNumbersTest" />
         <item itemvalue="JUnit.ChessBoardTest.initializeBoard" />
-        <item itemvalue="Application.ChessBoard" />
       </list>
     </recent_temporary>
   </component>
@@ -353,21 +352,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixAddationTest_addMatrix - 2018.12.26 at 17h 43m 14s.xml">
-      <configuration name="MatrixAddationTest.addMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentMarksTest_isInLimit - 2018.12.26 at 17h 46m 58s.xml">
-      <configuration name="StudentMarksTest.isInLimit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentMarksTest_isInLimitFailure - 2018.12.26 at 17h 47m 44s.xml">
-      <configuration name="StudentMarksTest.isInLimitFailure" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.26 at 22h 46m 04s.xml">
-      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChessBoardTest_initializeBoard - 2018.12.31 at 01h 33m 48s.xml">
-      <configuration name="ChessBoardTest.initializeBoard" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ChessBoardTest_initializeBoard - 2018.12.31 at 01h 34m 07s.xml">
       <configuration name="ChessBoardTest.initializeBoard" configurationId="JUnit" />
     </history-entry>
@@ -382,6 +366,21 @@
     </history-entry>
     <history-entry file="ConsecutiveNumbersTest_testIsConsecutive - 2018.12.31 at 01h 49m 32s.xml">
       <configuration name="ConsecutiveNumbersTest.testIsConsecutive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.31 at 01h 52m 42s.xml">
+      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.31 at 01h 53m 30s.xml">
+      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.31 at 01h 53m 51s.xml">
+      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.31 at 01h 54m 01s.xml">
+      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DayCalculatorTest_calCalendar - 2018.12.31 at 01h 54m 49s.xml">
+      <configuration name="DayCalculatorTest.calCalendar" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -446,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/RemoveVowels.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -475,27 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ChessBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/MatrixAddationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/StudentMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -510,10 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ConsecutiveNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/DayCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -524,20 +495,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ConsecutiveNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/DayCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/DayCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ExceptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/MatrixAddationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/MatrixAddation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="28" selection-start-line="28" selection-start-column="2" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
