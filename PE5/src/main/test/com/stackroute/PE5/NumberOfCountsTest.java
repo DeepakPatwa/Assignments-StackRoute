@@ -9,9 +9,20 @@ import static org.junit.Assert.*;
 
 public class NumberOfCountsTest {
 
+    NumberOfCounts numberOfCounts;
+
+    @org.junit.Before
+    public void setUp() throws Exception {
+        numberOfCounts = new NumberOfCounts();
+    }
+
+    @org.junit.After
+    public void tearDown() throws Exception {
+        numberOfCounts=null;
+    }
+
     @Test
     public void calculateNumberOfCounts() {
-        NumberOfCounts numberOfCounts = new NumberOfCounts();
         String inputString="one one -one___two,,three,one @three*one?two";
         Map<String, Integer> expectedMap=new HashMap<String, Integer>();
         expectedMap.put("one",5);
@@ -20,5 +31,17 @@ public class NumberOfCountsTest {
         Map<String, Integer> resultingMap = numberOfCounts.calculateNumberOfCounts(inputString);
         resultingMap.remove("");
         assertTrue(expectedMap.equals(resultingMap));
+    }
+
+    @Test
+    public void calculateNumberOfCountsFailure() {
+        String inputString="one one -one___two,,three,one @three*one?two";
+        Map<String, Integer> expectedMap=new HashMap<String, Integer>();
+        expectedMap.put("one",1);
+        expectedMap.put("two",1);
+        expectedMap.put("three",1);
+        Map<String, Integer> resultingMap = numberOfCounts.calculateNumberOfCounts(inputString);
+        resultingMap.remove("");
+        assertFalse(expectedMap.equals(resultingMap));
     }
 }
