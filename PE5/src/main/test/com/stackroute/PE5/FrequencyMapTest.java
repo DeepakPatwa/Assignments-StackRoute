@@ -50,9 +50,12 @@ public class FrequencyMapTest {
     @Test
     public void checkForNullInput()
     {
-        String[] inputArray = {};
+        String[] inputArray1 = {};
+        String[] inputArray2=null;
         Map<String, Boolean> expectedMap= new HashMap<String, Boolean>();
-        Map<String, Boolean> resultingMap= frequencyMap.checkFrequency(inputArray);
-        assertTrue("checkFrequency is failing", expectedMap.equals(resultingMap));
+        Map<String, Boolean> resultingMap1= frequencyMap.checkFrequency(inputArray1);
+        Map<String, Boolean> resultingMap2= frequencyMap.checkFrequency(inputArray2);
+        assertTrue("checkFrequency is failing", expectedMap.equals(resultingMap1));
+        assertNull(resultingMap2);
     }
 }

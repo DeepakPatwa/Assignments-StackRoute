@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="742a17a1-3be1-4af8-9862-231c860e30ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE5/com/stackroute/PE5/FrequencyMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PE5/com/stackroute/PE5/FrequencyMapTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="135">
               <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -33,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            <state relative-caret-position="645">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -42,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,22 +49,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="278">
               <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-              <folding>
-                <element signature="e#1572#1589#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="120">
               <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
@@ -76,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -84,11 +79,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="109" lean-forward="true" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+            <state relative-caret-position="165">
+              <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#673#681#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="240">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/UpdateArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,12 +143,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/UpdateArray.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/UpdateArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java" />
       </list>
     </option>
   </component>
@@ -169,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,8 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,13 +233,14 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546490723059" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546494013832" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -267,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PlayWithMapTest">
+  <component name="RunManager" selected="JUnit.FrequencyMapTest.checkForNullInput">
     <configuration name="FrequencyMapTest.checkForNullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE5" />
       <extension name="coverage">
@@ -346,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FrequencyMapTest.checkForNullInput" />
         <item itemvalue="JUnit.PlayWithMapTest" />
         <item itemvalue="JUnit.PlayWithMapTest.mapPlayNullInput" />
         <item itemvalue="JUnit.NumberOfCountsTest.checkForNullInput" />
         <item itemvalue="JUnit.NumberOfCountsTest" />
-        <item itemvalue="JUnit.FrequencyMapTest.checkForNullInput" />
       </list>
     </recent_temporary>
   </component>
@@ -368,15 +363,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumberOfCountsTest - 2019.01.03 at 00h 40m 20s.xml">
-      <configuration name="NumberOfCountsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOfCountsTest - 2019.01.03 at 00h 41m 19s.xml">
-      <configuration name="NumberOfCountsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOfCountsTest - 2019.01.03 at 00h 47m 54s.xml">
-      <configuration name="NumberOfCountsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PlayWithMapTest - 2019.01.03 at 00h 48m 54s.xml">
       <configuration name="PlayWithMapTest" configurationId="JUnit" />
     </history-entry>
@@ -398,17 +384,25 @@
     <history-entry file="PlayWithMapTest_mapPlayNullInput - 2019.01.03 at 10h 07m 34s.xml">
       <configuration name="PlayWithMapTest.mapPlayNullInput" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PlayWithMapTest - 2019.01.03 at 10h 15m 24s.xml">
+      <configuration name="PlayWithMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyMapTest_checkForNullInput - 2019.01.03 at 10h 18m 58s.xml">
+      <configuration name="FrequencyMapTest.checkForNullInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyMapTest_checkForNullInput - 2019.01.03 at 10h 21m 19s.xml">
+      <configuration name="FrequencyMapTest.checkForNullInput" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="702" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26136363" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27045456" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -416,7 +410,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32809773" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32809773" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -477,21 +471,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="109" lean-forward="true" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+        <state relative-caret-position="135">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#681#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/UpdateArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="645">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -505,10 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/UpdateArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -517,8 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/FrequencyMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -527,42 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/FrequencyMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="278">
           <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-          <folding>
-            <element signature="e#1572#1589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/NumberOfCounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/NumberOfCountsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE5/PlayWithMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE5/PlayWithMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
