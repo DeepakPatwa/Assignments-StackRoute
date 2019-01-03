@@ -46,4 +46,13 @@ public class FrequencyMapTest {
 
         assertFalse("checkFrequencyFailure is failing", expectedMap.equals(resultingMap));
     }
+
+    @Test
+    public void checkForNullInput()
+    {
+        String[] inputArray = {};
+        Map<String, Boolean> expectedMap= new HashMap<String, Boolean>();
+        Map<String, Boolean> resultingMap= frequencyMap.checkFrequency(inputArray);
+        assertTrue("checkFrequency is failing", expectedMap.equals(resultingMap));
+    }
 }

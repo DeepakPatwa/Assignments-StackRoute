@@ -45,4 +45,12 @@ public class PlayWithMapTest {
 
         assertFalse(expectedMap.equals(resultingMap));
     }
+
+    @Test
+    public void mapPlayNullInput() {
+        Map<String, String> inputMap=new HashMap<>();
+        Map<String, String> resultingMap=playWithMap.mapPlay(inputMap);
+
+        assertNull(resultingMap);
+    }
 }

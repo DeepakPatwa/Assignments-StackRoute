@@ -7,6 +7,9 @@ public class FrequencyMap {
     public Map<String ,Boolean> checkFrequency(String[] stringArray)
     {
         Map<String, Boolean> map= new HashMap<String, Boolean>();
+
+        if(stringArray.length==0)
+            return  map;
         for (int i=0;i<stringArray.length;i++)
         {
             if(map.containsKey(stringArray[i]))

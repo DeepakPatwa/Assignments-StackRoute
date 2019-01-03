@@ -44,4 +44,14 @@ public class NumberOfCountsTest {
         resultingMap.remove("");
         assertFalse(expectedMap.equals(resultingMap));
     }
+
+    @Test
+    public void checkForNullInput()
+    {
+        String inputString="";
+        Map<String, Integer> expectedMap=new HashMap<String, Integer>();
+        Map<String, Integer> resultingMap = numberOfCounts.calculateNumberOfCounts(inputString);
+
+        assertNull(numberOfCounts.calculateNumberOfCounts(inputString));
+    }
 }
