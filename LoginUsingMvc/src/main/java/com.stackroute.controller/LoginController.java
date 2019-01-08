@@ -6,6 +6,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
@@ -20,13 +22,13 @@ public class LoginController {
         return "Login";
     }
 
-    @RequestMapping(value = "/login")
-    public ModelAndView greeting1(HttpServletRequest request, HttpServletResponse response){
+    @RequestMapping(value = "/login", method = RequestMethod.POST)
+    public ModelAndView greeting1(@RequestParam("username")String userName, @RequestParam("password") String userPassword){
         User user = new User();
-        String username=request.getParameter("username");
-        user.setName(username);
         ModelAndView mv= new ModelAndView();
         mv.setViewName("index");
+        user.setName(userName);
+        user.setPassword(userPassword);
         mv.addObject("userdetail",user);
 
         return mv;

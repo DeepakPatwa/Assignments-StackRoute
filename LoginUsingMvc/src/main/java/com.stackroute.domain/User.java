@@ -2,7 +2,7 @@ package com.stackroute.domain;
 
 public class User {
     private String name;
-    private Integer id;
+    private String password;
 
     public User(){
     }
@@ -15,11 +15,11 @@ public class User {
         return name;
     }
 
-    public void setId(Integer id) {
-        this.id = id;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
-    public Integer getId() {
-        return id;
+    public String getPassword() {
+        return password;
     }
 }
